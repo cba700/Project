@@ -1,0 +1,44 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(sw돌려보는용.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  소스.cpp
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(251,10): warning C4102: 'start': 참조되지 않은 레이블입니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(542,73): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(545,47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(717,54): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(844,24): warning C4244: '+=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(862,24): warning C4244: '-=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(877,38): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(878,62): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1103,69): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1104,69): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1118,94): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1140,30): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1216,48): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1218,69): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1534,71): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1734,73): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1735,73): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1748,98): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1751,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1774,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1874,77): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1875,77): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1888,102): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1891,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1914,33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1988,39): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1991,39): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1999,31): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(1999,75): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2000,30): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2000,74): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2036,65): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2037,65): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2223,25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2225,43): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2229,37): warning C4244: '+=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2232,38): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2232,73): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2248,16): warning C4244: 'return': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2965,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\임창인\Desktop\sw돌려보는용\sw돌려보는용\소스.cpp(2965,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  sw돌려보는용.vcxproj -> C:\Users\임창인\Desktop\sw돌려보는용\Debug\sw설계기초.exe
